@@ -1,4 +1,4 @@
-Link to website-fashion-store.pages.dev/
+Link to website - https://fashion-store.pages.dev/ 
 
 
 # Fashion-Store
